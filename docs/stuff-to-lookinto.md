@@ -1,6 +1,7 @@
 # Stuff to Learn
 
 - Docusaurus
+- MongoDB and its associated C# API. What is projection?
 - [C# Primitive Types](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/built-in-types)
 - Markdown (the Markdown syntax)
 - YAML (another md syntax)
